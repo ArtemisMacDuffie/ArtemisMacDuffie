@@ -22,18 +22,53 @@ Hello~ I'm Artemis, a programming student. Here are some fun facts about me:
   - *Fiction*
 - **Music** 🎵
   - *Production*
+    - FL Studio
+    - Softsynths
   - *Recording*
+    - Lyrics
+    - Singing
   - *Percussion*
+  - *Harmonica*
 - **Video games** 🎮
   - *JRPGs*
   - *VNs*
   - *Monster Hunter*
+- **Media**
+  - *Comics*
+    - Paper Girls
+    - Saga
+    - Monstress
+    - Bloom into You
+    - Even Though We're Adults
+    - The Summer You Were There
+    - Yuri is My Job!
+    - The Golden Forest
+    - Straight Girl Trap
+    - Please Bully Me, Miss Villainess!
+    - Baili Jin Among Mortals
+  - *Animation*
+    - Mobile Suit Gundam: The Witch from Mercury
+    - Katanagatari
+    - The Owl House
+    - Amphibia
+    - RWBY
+    - Avatar: The Last Airbender
+    - Avatar: The Legend of Korra
+  - *Lit*
+    - The Hades Calculus
+    - The Machine Mandate
+    - The Rise of Kyoshi / The Shadow of Kyoshi
+    - The Executioner and Her Way of Life
 - **TTRPGs** 🎲
   - *Forever GM*
   - *Design and development*
-  - *Indie games*
-    - TSL
-    - Blades in the Dark
-    - Beam Saber
+  - *Indie and narrative games*
+    - Blades in the Dark (FitD)
+    - Scum and Villainy (FitD)
+    - Beam Saber (FitD)
+    - Apocalypse World (PbtA)
+    - Thirsty Sword Lesbians (PbtA)
+    - Ironsworn (PbtA)
     - Animon
     - Lancer
+    - Homebrew (PbtA, Fate)
