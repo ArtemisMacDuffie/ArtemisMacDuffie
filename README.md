@@ -9,11 +9,12 @@ Hello~ I'm Artemis, a programming student. Here are some fun facts about me:
 ### ***Work history*** 💼
 - *Classroom teacher* (biology and environmental science)
 - *Outdoor educator* (ecology, teambuilding, experiental learning)
-- *Standardized test tutoring* (SAT, SSAT, and ACT)
+- *Standardized test tutoring* (SAT, SSAT, ACT, Accuplacer, etc)
 ### ***Languages*** (learning / have learned) 🖥️
 - *Java*
 - *Python*
 - *HTML*
+- *SQL*
 ### ***Hobbies*** ✨
 - **Writing** ✏️
   - *Poetry*
