@@ -13,8 +13,8 @@ Hello~ I'm Artemis, a programming student. Here are some fun facts about me:
 ### ***Languages*** (learning / have learned) 🖥️
 - *Java*
 - *Python*
-- *HTML*
-- *SQL*
+- *C#*
+- *HTML/SQL*
 ### ***Hobbies*** ✨
 - **Writing** ✏️
   - *Poetry*
